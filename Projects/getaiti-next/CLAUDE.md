@@ -1,5 +1,5 @@
 # getaiti-next (AITi / getaiti.com)
-
+ 
 ## Goal Link
 Supports: [[1. Yearly Goals#Goal 2: 建立 AI 创业产品]]
 Supports: [[2. Monthly Goals#AI 资讯收集平台]]
