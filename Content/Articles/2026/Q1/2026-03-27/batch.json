@@ -1,0 +1,59 @@
+{
+  "jobs": 6,
+  "tasks": [
+    {
+      "id": "cover",
+      "promptFiles": ["prompts/00-cover-harness-engineering.md"],
+      "image": "00-cover-harness-engineering.png",
+      "provider": "seedream",
+      "model": "doubao-seedream-5-0-260128",
+      "ar": "16:9",
+      "quality": "2k"
+    },
+    {
+      "id": "prompt",
+      "promptFiles": ["prompts/01-prompt-engineering.md"],
+      "image": "01-prompt-engineering.png",
+      "provider": "seedream",
+      "model": "doubao-seedream-5-0-260128",
+      "ar": "4:3",
+      "quality": "2k"
+    },
+    {
+      "id": "context",
+      "promptFiles": ["prompts/02-context-engineering.md"],
+      "image": "02-context-engineering.png",
+      "provider": "seedream",
+      "model": "doubao-seedream-5-0-260128",
+      "ar": "4:3",
+      "quality": "2k"
+    },
+    {
+      "id": "harness",
+      "promptFiles": ["prompts/03-harness-engineering.md"],
+      "image": "03-harness-engineering.png",
+      "provider": "seedream",
+      "model": "doubao-seedream-5-0-260128",
+      "ar": "4:3",
+      "quality": "2k"
+    },
+    {
+      "id": "performance",
+      "promptFiles": ["prompts/04-performance-comparison.md"],
+      "image": "04-performance-comparison.png",
+      "provider": "seedream",
+      "model": "doubao-seedream-5-0-260128",
+      "ar": "16:9",
+      "quality": "2k"
+    },
+    {
+      "id": "levels",
+      "promptFiles": ["prompts/05-three-levels-framework.md"],
+      "image": "05-three-levels-framework.png",
+      "provider": "seedream",
+      "model": "doubao-seedream-5-0-260128",
+      "ar": "4:3",
+      "quality": "2k"
+    }
+  ]
+}

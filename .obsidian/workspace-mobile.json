@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "d81b24072eafc7a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f85ad3d7ba16ed05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8564f98b2c4073f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2026-03-27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-27"
+            }
+          },
+          {
+            "id": "350510b9300c099e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goals/4. Monthly Goals - April 2026.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Monthly Goals - April 2026"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8370b95daa810b7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7e53e2a74b5079ac",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "ce2534db914df817",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "03212c8aaefc8e84",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "274d305155ad76c4",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "添加笔记属性"
+        }
+      },
+      {
+        "id": "ab0351b13a56e4b1",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a1d5981e55074296",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d7cce107885079b3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Daily Notes/2026-03-27.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "e5097d4439f58aff",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "6bec52a7e64727a9",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "350510b9300c099e",
+  "lastOpenFiles": [
+    "Projects/小红书起号追踪.md",
+    "Daily Notes/2026-03-27.md",
+    "Content/Articles/2026/Q1/2026-03-27/AI 工程方法演进：从 Prompt 到 Context 再到 Harness.md",
+    "Content/Articles/2026/Q1/2026-03-27/我用 OpenClaw 把小红书运营做成了自动化流水线.md",
+    "Projects/Claude Code/AI工程方法演进深度调研报告.md",
+    "Projects/Human-Agent-Kanban/SPEC.md",
+    "Projects/Claude Code/Claude-Code-最佳实践.md",
+    "Projects/Claude Code/Claude-Code-最佳实践-原文.md",
+    "Content/Articles/2026/Q1/2026-03-26/AI时代生存指南：旧秩序在松动，新秩序长什么样？.md",
+    "Projects/Claude Code/你不知道的 Claude Code：架构、治理与工程实践.md",
+    "Projects/OpenClaw学习/openclaw-obsidian-实战指南.md",
+    "Content/Articles/2026/Q1/2026-03-26/新秩序与个体存在.md",
+    "Daily Notes/2026-03-26.md",
+    "Content/Articles/2026/Q1/2026-03-25/images",
+    "Daily Notes/2026-03-24.md",
+    "Daily Notes/2026-03-25.md",
+    "x-to-markdown/PandaTalk8/2036404404388241423.md",
+    "x-to-markdown/PandaTalk8",
+    "x-to-markdown",
+    "Content/Articles/2026/Q1/2026-03-26/images/illust-01-crumbling-paths.png",
+    "Content/Articles/2026/Q1/2026-03-26/images/cover.png",
+    "Content/Articles/2026/Q1/2026-03-26/images/illust-03-community-journey.png",
+    "Content/Articles/2026/Q1/2026-03-26/images/illust-02-connected-individual.png",
+    "Content/Articles/2026/Q1/2026-03-26/images",
+    "Content/Articles/2026/Q1/2026-03-26",
+    "Goals/1. Yearly Goals.md",
+    "Goals/0. Three Year Goals.md",
+    "Content/Articles/2026/Q1/2026-03-25/entrepreneur-health-article.md",
+    "Content/Articles/2026/Q1/2026-03-24/微信接入OpenClaw-公众号文章.md"
+  ]
+}

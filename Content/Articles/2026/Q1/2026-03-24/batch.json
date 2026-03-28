@@ -1,0 +1,50 @@
+{
+  "jobs": 5,
+  "tasks": [
+    {
+      "id": "hero",
+      "promptFiles": ["prompts/01-scene-wechat-ai-hero.md"],
+      "image": "01-scene-wechat-ai-hero.png",
+      "provider": "seedream",
+      "model": "doubao-seedream-5-0-260128",
+      "ar": "16:9",
+      "quality": "2k"
+    },
+    {
+      "id": "architecture",
+      "promptFiles": ["prompts/02-infographic-openclaw-architecture.md"],
+      "image": "02-infographic-openclaw-architecture.png",
+      "provider": "seedream",
+      "model": "doubao-seedream-5-0-260128",
+      "ar": "3:4",
+      "quality": "2k"
+    },
+    {
+      "id": "flowchart",
+      "promptFiles": ["prompts/03-flowchart-wechat-access-steps.md"],
+      "image": "03-flowchart-wechat-access-steps.png",
+      "provider": "seedream",
+      "model": "doubao-seedream-5-0-260128",
+      "ar": "16:9",
+      "quality": "2k"
+    },
+    {
+      "id": "features",
+      "promptFiles": ["prompts/04-comparison-clawbot-features.md"],
+      "image": "04-comparison-clawbot-features.png",
+      "provider": "seedream",
+      "model": "doubao-seedream-5-0-260128",
+      "ar": "3:4",
+      "quality": "2k"
+    },
+    {
+      "id": "summary",
+      "promptFiles": ["prompts/05-scene-core-value-summary.md"],
+      "image": "05-scene-core-value-summary.png",
+      "provider": "seedream",
+      "model": "doubao-seedream-5-0-260128",
+      "ar": "16:9",
+      "quality": "2k"
+    }
+  ]
+}

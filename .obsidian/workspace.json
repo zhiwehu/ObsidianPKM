@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "d69b5d5c4a4662b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6326c5e987d5c7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f68a178bd9a14caa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2026-03-28.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-28"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97cfa2e4a720813e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cdb0f119382ff3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9f702a33ade1a3b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "e3c9c58ef64b7fbb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "3b25d27f679098c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f662acb4241ee2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "74f0fe96c82030b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "695e46b3e7b25cdc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/Example Project/project-notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "project-notes 的反向链接列表"
+            }
+          },
+          {
+            "id": "418ca9e4de80deb1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Projects/Example Project/project-notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "project-notes 的出链列表"
+            }
+          },
+          {
+            "id": "365c060a541966ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "79cf00b77f55669d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "3a81e9bfc0d7d200",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projects/Example Project/project-notes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "project-notes 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "f68a178bd9a14caa",
+  "lastOpenFiles": [
+    "Goals/0. Three Year Goals.md",
+    "Projects/getaiti-next/AITi-Business-Plan.md",
+    "Projects/getaiti-next/README.md",
+    "Projects/getaiti-next/DAY1-PROGRESS.md",
+    "Projects/getaiti-next/CLAUDE.md",
+    "Daily Notes/2026-03-28.md",
+    "Projects/Human-Agent-Kanban/Human-Agent Collaboration Kanban System - SPEC.md",
+    "Content/Articles/2026/Q1/2026-03-27/我用 OpenClaw 把小红书运营做成了自动化流水线.md",
+    "Projects/小红书/小红书起号追踪.md",
+    "Projects/getaiti-next/src/assets/favicon.ico",
+    "Projects/getaiti-next/src/assets",
+    "Projects/getaiti-next/src",
+    "Projects/getaiti-next/public/web/icons8-logo-color-96.png",
+    "Projects/getaiti-next/public/web/icons8-logo-color-76.png",
+    "Projects/getaiti-next/public/web/icons8-logo-color-72.png",
+    "Projects/getaiti-next/public/web/icons8-logo-color-70.png",
+    "Projects/getaiti-next/public/web/icons8-logo-color-60.png",
+    "Projects/getaiti-next/public/web/icons8-logo-color-57.png",
+    "Projects/getaiti-next/public/web/icons8-logo-color-512.png",
+    "Projects/getaiti-next/public/web/icons8-logo-color-48.png",
+    "Projects/getaiti-next/public/web/icons8-logo-color-32.png",
+    "Projects/getaiti-next/public/web/icons8-logo-color-310.png",
+    "Projects/getaiti-next/public/web",
+    "Projects/getaiti-next/public/svg",
+    "Projects/getaiti-next/public",
+    "Projects/Human-Agent-Kanban/调研-Wekan-开源看板平台.md",
+    "Human-Agent-Kanban.md",
+    "getaiti-next.md",
+    "Projects/小红书/Jeffrey-小红书 60 天起号计划（副业版）.md",
+    "Projects/小红书.md",
+    "AITi-Business-Plan.md",
+    "Projects/getaiti-next.md",
+    "Projects/Human-Agent-Kanban.md",
+    "Projects/AI学习.md",
+    "Projects/小红书",
+    "Projects/AI学习/小红书/小红书起号追踪.md",
+    "Projects/AI学习/小红书/Jeffrey-小红书 60 天起号计划（副业版）.md",
+    "Projects/AI学习/小红书",
+    "Projects/AI学习/OpenClaw/openclaw-obsidian-实战指南.md",
+    "Projects/AI学习/Claude-Code/你不知道的 Claude Code：架构、治理与工程实践.md",
+    "Projects/AI学习/Claude-Code/tw93-claude-code-article.md",
+    "Projects/AI学习/OpenClaw/OpenClaw与Obsidian集成指南.md",
+    "Projects/AI学习/OpenClaw/CLAUDE.md",
+    "Projects/AI学习/Claude-Code/Claude-Code-最佳实践.md",
+    "Projects/AI学习/OpenClaw",
+    "Projects/AI学习/Claude-Code"
+  ]
+}

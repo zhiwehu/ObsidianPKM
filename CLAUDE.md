@@ -1,9 +1,10 @@
 # Obsidian PKM Vault Context
 
 ## System Purpose
-[CUSTOMIZE: Add your personal mission statement here]
 
-*Example: "Build meaningful technology while maintaining balance across health, relationships, and personal growth."*
+Build meaningful technology while maintaining balance across career growth, health, and personal development.
+
+*Focus areas: Career & Professional, Health & Wellness, Relationships*
 
 ## Directory Structure
 
@@ -18,7 +19,9 @@
 
 ## Current Focus
 
-See @Goals/2. Monthly Goals.md for this month's priorities.
+**Primary Goal Areas:** Career & Professional, Health & Wellness, Relationships
+
+See @Goals/ for goal cascade (3-year → yearly → monthly → weekly)
 
 ## Tag System
 

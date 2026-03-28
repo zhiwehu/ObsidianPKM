@@ -1,0 +1,32 @@
+[
+  {
+    "id": "01-scene-cover-lonely-light",
+    "prompt": "A hand-drawn sketch style illustration. A lone lamp glowing warmly in a dark room. Old-fashioned desk lamp with a soft warm light. Deep blue background almost entirely black, only a circle of warm yellow glow around the lamp. Mood: sad, lonely, remembrance, quiet. Lonely but warm, quiet contemplation. Hand-drawn style with delicate and restrained brushstrokes. Color palette: deep blue background #1a1a2e + warm lamp light #f4a261 + cream white highlights #e9c46a. No text. Pure visual storytelling.",
+    "image": "01-scene-cover-lonely-light.png"
+  },
+  {
+    "id": "02-scene-phone-memorial",
+    "prompt": "A hand-drawn sketch style illustration. A smartphone screen glowing in the dark. The screen shows a social media timeline with memorial posts about someone passing away. Background is extremely blurred, showing only a vague indoor silhouette - perhaps an entrepreneur alone in an office late at night. Mood: shocked, memorial, somber. Suddenly awakened late at night by the cold white light. Hand-drawn style with bold and powerful lines. Color palette: dark gray background #2d2d2d + phone screen cold white #f0f0f0 + faint mourning purple #6b5b95. No text. Pure visual.",
+    "image": "02-scene-phone-memorial.png"
+  },
+  {
+    "id": "03-infographic-burdens",
+    "prompt": "A hand-drawn infographic illustration. A human silhouette standing on a narrow rope bridge over an abyss. From the figure's shoulders extend three ropes hanging with symbolic burdens: 1) small figures representing employees, 2) house and heart representing family, 3) handshake and money representing trust and responsibility. The figure's head is slightly lowered. Mood: heavy, burdened, empathetic. Like walking on a tightrope while carrying the world. Hand-drawn sketch style with powerful but not delicate lines. Color palette: dark gray/black silhouette #1a1a1a + brown ropes #8b7355 + deep blue background #16213e. No text. Pure visual metaphor.",
+    "image": "03-infographic-burdens.png"
+  },
+  {
+    "id": "04-infographic-iceberg",
+    "prompt": "A hand-drawn infographic illustration comparing iceberg above water vs below water. Left side (above water) shows: successful businessperson in suit, gold coins, trophy, media spotlight. Right side (below water) shows: late night office lights, exhausted figure at desk, sleepless moon and stars, anxious expression, ECG heartbeat line, lonely walking figure. Clear water line dividing two completely different tones. Mood: revelation, contrast, somber. What others see vs the hidden reality. Hand-drawn watercolor style with light but profound brushstrokes. Above water: warm tones #f4a261 #e9c46a. Below water: cold tones #1a1a2e #3d405b. No text. Pure visual contrast.",
+    "image": "04-infographic-iceberg.png"
+  },
+  {
+    "id": "05-scene-chained-runner",
+    "prompt": "A hand-drawn scene illustration. A person running but feet shackled with heavy iron chains. Chains from ankles to bottom of画面, rusty, showing they've been there a long time. Person leaning forward, determined expression, running despite being chained. Background is an endless road/path fading into distance. Mood: trapped, struggling, determined. Can't stop, won't stop. Hand-drawn sketch style with smooth powerful lines conveying motion. Color palette: warm gray ground #d4a373 + dark brown chains #5c4033 + figure dark blue #264653 + background earthy yellow #e9d8a6. No text. Pure visual.",
+    "image": "05-scene-chained-runner.png"
+  },
+  {
+    "id": "06-scene-hope-flame",
+    "prompt": "A hand-drawn warm illustration. Two hands cupped upward, gently cradling a small flame. The flame is small but burning steadily with warm orange-yellow light. The gesture of the hands is very tender, protecting this fragile yet determined flame. Background is a gradient from deep blue to warm yellow, symbolizing moving from darkness to hope. Mood: hopeful, gentle, warm, tender. Being treated with tenderness, tiny but unwavering hope. Hand-drawn warm style with soft delicate brushstrokes. Color palette: deep blue background #1a1a2e + hands light brown #d4a373 + flame orange yellow #f4a261 #e9c46a + warm glow #fff3b0. No text. Pure visual.",
+    "image": "06-scene-hope-flame.png"
+  }
+]

@@ -6,7 +6,7 @@
 
 **Type:** AI Product / SaaS
 
-**Stage:** 调研阶段
+**Stage:** 调研阶段（SPEC 已完成 v1.2）
 
 **Start Date:** 2026-03
 
@@ -53,10 +53,10 @@
 
 ## 🔧 Technical Approach
 
-**技术栈（待定）：**
-- 前端：待定
-- 后端：待定
-- AI：OpenClaw / 其他 Agent 框架
+**技术栈（参考 SPEC）：**
+- 前端：React 18 + TypeScript + Zustand + @dnd-kit
+- 后端：Fastify + Prisma + PostgreSQL + Redis
+- AI：OpenClaw（HTTP API 触发，无需 Webhook）
 - 部署：待定
 
 **核心功能：**
@@ -97,7 +97,7 @@
 
 - [[2. Monthly Goals]] - 项目月目标
 - [[3. Weekly Review]] - 周进度追踪
-- [调研笔记](research.md)
+- [SPEC.md](Human-Agent%20Collaboration%20Kanban%20System%20-%20SPEC.md) - 完整产品技术规范（v1.2, 2026-03-22）
 
 ---
 
