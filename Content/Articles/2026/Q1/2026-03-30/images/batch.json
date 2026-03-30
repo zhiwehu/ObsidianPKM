@@ -1,0 +1,59 @@
+{
+  "jobs": 2,
+  "tasks": [
+    {
+      "id": "01-cover",
+      "promptFiles": ["prompts/01-cover.md"],
+      "image": "01-cover-openclaw.png",
+      "provider": "google",
+      "model": "gemini-3-pro-image-preview",
+      "ar": "3:4",
+      "quality": "2k"
+    },
+    {
+      "id": "02-comparison",
+      "promptFiles": ["prompts/02-comparison.md"],
+      "image": "02-comparison-ai-tools.png",
+      "provider": "google",
+      "model": "gemini-3-pro-image-preview",
+      "ar": "16:9",
+      "quality": "2k"
+    },
+    {
+      "id": "03-scenarios",
+      "promptFiles": ["prompts/03-scenarios.md"],
+      "image": "03-seven-scenarios.png",
+      "provider": "google",
+      "model": "gemini-3-pro-image-preview",
+      "ar": "3:4",
+      "quality": "2k"
+    },
+    {
+      "id": "04-steps",
+      "promptFiles": ["prompts/04-steps.md"],
+      "image": "04-setup-steps.png",
+      "provider": "google",
+      "model": "gemini-3-pro-image-preview",
+      "ar": "9:16",
+      "quality": "2k"
+    },
+    {
+      "id": "05-personal-assistant",
+      "promptFiles": ["prompts/05-personal-assistant.md"],
+      "image": "05-personal-assistant.png",
+      "provider": "google",
+      "model": "gemini-3-pro-image-preview",
+      "ar": "3:4",
+      "quality": "2k"
+    },
+    {
+      "id": "06-next-preview",
+      "promptFiles": ["prompts/06-next-preview.md"],
+      "image": "06-next-preview.png",
+      "provider": "google",
+      "model": "gemini-3-pro-image-preview",
+      "ar": "3:4",
+      "quality": "2k"
+    }
+  ]
+}
